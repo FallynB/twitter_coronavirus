@@ -61,10 +61,10 @@ I ran the `visualize.py` file with the `--input_path` equal to both the country 
 
 The four plots generated are below.
 
-<img src=#coronavirus_country.png width=100% />
+![Graph 1](https://github.com/FallynB/twitter_coronavirus/blob/master/%23coronavirus_country.png)
 
-<img src=#coronavirus_lang.png width=100% />
+![Graph 2](https://github.com/FallynB/twitter_coronavirus/blob/master/%23coronavirus_lang.png)
 
-<img src=#코로나바이러스_country.png width=100% />
+![Graph 3](https://github.com/FallynB/twitter_coronavirus/blob/master/%23%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_country.png)
 
-<img src=#코로나바이러스_lang.png width=100% />
+![Graph 4](https://github.com/FallynB/twitter_coronavirus/blob/master/%23%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_lang.png)
