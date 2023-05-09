@@ -68,3 +68,5 @@ The four plots generated are below.
 ![Graph 3](https://github.com/FallynB/twitter_coronavirus/blob/master/%23%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_country.png)
 
 ![Graph 4](https://github.com/FallynB/twitter_coronavirus/blob/master/%23%EC%BD%94%EB%A1%9C%EB%82%98%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4_lang.png)
+
+![Alternative Reduce](https://github.com/FallynB/twitter_coronavirus/blob/master/alternativereduce.png)
